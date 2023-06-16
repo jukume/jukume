@@ -25,7 +25,8 @@
   - [Certified Ethical Hacker](https://github.com/jukume/)
   - [Microsoft Certified Professional{Windows Server 2000}](https://github.com/jukume/)
   - [Pursuing Cybersecurity Professional(2023)](https://github.com/jukume/)
-  
+- <b>Badges</b>
+
 <h2>📺 Popular YouTube Videos</h2>
 
 <h2> 🤳 Connect with me:</h2>
@@ -38,7 +39,7 @@
 [twitter]: https://twitter.com/#
 [youtube]: https://www.youtube.com/c/#
 [instagram]: https://www.instagram.com/#/
-[linkedin]: https://linkedin.com/in/#
+[linkedin]: https://www.linkedin.com/in/julius-tuazon-li
 
 <!--
 **jukume/jukume** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
