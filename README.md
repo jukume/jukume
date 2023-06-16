@@ -14,10 +14,6 @@
 
 - <b>PowerShell</b>
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)]
 
 <h2>👨‍Certifications</h2>
 
