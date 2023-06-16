@@ -4,12 +4,26 @@
 <h2>👨‍💻 Network and Cybersecurity Activities:</h2>
 
   - <b>Active Home Directory</b>
-    - [Tutorial in Windows Server 2019 Installation, Activie Directory, and DNS, and DHCP, and Powershell](https://github.com/jukume/ActiveDirectoryLab)
+    - [Tutorial in Windows Server 2019 Installation, Activie Directory, and DNS, and DHCP, and Powershell, Virtualization (Oracle Virtual Box)](https://github.com/jukume/ActiveDirectoryLab)
   - <b>PowerShell</b>
     - [Pursuing Commands and Usage](https://github.com/jukume/)
 - <b>Python</b>
-  - [Pursuing to know Python (Programming)](https://github.com/jukume)
-
+  - [Pursuing to know Python (Programming)](https://github.com/jukume)- <b>SIEM</b>
+- <b>File Integrity Monitoring(Qeued)</b>
+  - [Powershell](https://github.com/jukume/)
+  - [Hashing Algorithm](https://github.com/jukume/)
+  - [Automation](https://github.com/jukume/)
+- <b>Creating a Vulnerability Management Lab(Qeued)</b>
+  - [Nessus Essential](https://github.com/jukume/)
+  - [Virtualization](https://github.com/jukume/)
+  - [Vulenrability Remediation](https://github.com/jukume/)
+ - <b>Creating a REST API(Qeued)</b>
+   - [Coding Web Development](https://github.com/jukume/)
+   - [Gateway to WebApp Pentesting](https://github.com/jukume/)
+   - [APIs](https://github.com/jukume/)
+- <b>SIEM(Qeued))</b>
+    - [Pursuing SIEM](https://github.com/jukume/)
+  
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>PowerShell</b>
