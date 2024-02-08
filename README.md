@@ -34,7 +34,7 @@
 - <b>Cybersecurity</b>
   - [Certified Ethical Hacker](https://github.com/jukume/)
   - [Microsoft Certified Professional{Windows Server 2000}](https://github.com/jukume/)
-  - [Google Cybersecurity Specialization (2023)]([https://github.com/jukume/GoogleCybersecurity/](https://www.coursera.org/account/accomplishments/specialization/certificate/GCAATZVFUJWL))
+  - [Google Cybersecurity Specialization (2023)](https://www.coursera.org/account/accomplishments/specialization/certificate/GCAATZVFUJWL)
 - <b>Badges</b>
 
 <h2>📺 Popular YouTube Videos</h2>
