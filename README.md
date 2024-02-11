@@ -37,7 +37,7 @@
   - [Google Cybersecurity Specialization (2023)](https://www.coursera.org/account/accomplishments/specialization/certificate/GCAATZVFUJWL)
 - <b>Badges</b>
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 Practice Ground</h2>
 
 <h2> 🤳 Connect with me:</h2>
 
