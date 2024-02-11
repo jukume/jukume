@@ -38,8 +38,10 @@
 - <b>Badges</b>
 
 <h2>📺 Practice Ground</h2>
-- <b>CSharp Practice</b>
-    - [CSharp Practice](https://github.com/jukume/CSharp)
+- <b>CSharp Code</b>
+    - [CSharp Practice](https://github.com/jukume/CSharp/)
+- <b>LInQ Code</b>
+    - [CSharp Practice](https://github.com/jukume/LInQ/)
 
 <h2> 🤳 Connect with me:</h2>
 
