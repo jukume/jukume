@@ -38,6 +38,8 @@
 - <b>Badges</b>
 
 <h2>📺 Practice Ground</h2>
+- <b>CSharp Practice</b>
+    - [Grain](https://github.com/jukume/ActiveDirectoryLab)
 
 <h2> 🤳 Connect with me:</h2>
 
