@@ -39,7 +39,7 @@
 
 <h2>📺 Practice Ground</h2>
 - <b>CSharp Practice</b>
-    - [Grain](https://github.com/jukume/ActiveDirectoryLab)
+    - [CSharp Practice](https://github.com/jukume/CSharp)
 
 <h2> 🤳 Connect with me:</h2>
 
